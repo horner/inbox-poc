@@ -2,6 +2,7 @@
 https://docs.google.com/document/d/1YYCBtpLCjBeLjI9ieCUXF5u4azKMC8aan9UAF2nowmU/edit?tab=t.0
 
 # Goal
+
 Replace Document Queue, Fax Queue, File Queue to System Inbox.  The old systems need to be replaced with something that is mobile friendly, less complicated, and flexible to support different workflows.  We should treat all inbox like functions: Scanning, Faxing, Interface documents, Email, Direct Emails, etc. in a consistent and intuitive screen.
 
 ## **1.1 Document Paths**
